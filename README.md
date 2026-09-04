@@ -10,8 +10,8 @@
 <pre style="font-family: monospace; font-size: 13px; line-height: 1.4; margin: 0;">
 <b><font color="#ffffff">awais</font>@<font color="#ffffff">github</font></b>
 ------------
-<b><font color="#888888">Degree       :</font></b> Software Engineering (BS @ FAST)
-<b><font color="#888888">Location     :</font></b> Karachi, Pakistan
+<b><font color="#888888">Degree   :</font></b> Software Engineering (BS @ FAST)
+<b><font color="#888888">Location :</font></b> Karachi, Pakistan
 <b><font color="#888888">Honors   :</font></b> 5x Dean's List Scholar
 <b><font color="#888888">Stack    :</font></b> React Native, .NET, Spring Boot
 <b><font color="#888888">Languages:</font></b> C#, Java, Python, Lua, React
