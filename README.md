@@ -33,6 +33,8 @@
  ├─ <b>App Dev</b>   : React Native, Desktop & Mobile Apps, Web Dev
  └─ <b>Backend</b>   : REST APIs, Database-Driven Solutions, Power Apps
 
+ <br>
+
 <font color="#ffffff"><b>Featured Projects</b></font>
  ├─ <b>3D Model Viewer</b>   : .NET web server project to showcase 3D models
  ├─ <b>Digital Store Sim</b> : Java Spring Boot store w/ cart & payment
