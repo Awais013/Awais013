@@ -59,9 +59,13 @@
   <a href="mailto:awaisjamali987@gmail.com">
     <img src="https://img.shields.io/badge/Email-awaisjamali987%40gmail.com-181717?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;
+  <br>
   <a href="https://linkedin.com/in/awais10013">
     <img src="https://img.shields.io/badge/LinkedIn-awais10013-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://nyx0131.itch.io/">
+    <img src="https://img.shields.io/badge/Itch.io-nyx0131-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white" alt="Itch.io" />
   </a>
 </p>
 
